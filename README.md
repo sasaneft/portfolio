@@ -28,7 +28,7 @@ I am a passionate data analyst with a strong foundation in data manipulation, vi
 #### Created a Python tutorial series for beginners, focusing on data analysis libraries (available in repository).
 Delivered SQL training sessions to enhance team proficiency in database querying.
 ## Contact
-Email:sasan.eftekhar@gmx.de(business and work)    sasaneft@gmail.com(private) 
-LinkedIn: https://www.linkedin.com/in/sasan-eftekhar-27912519b/
-GitHub: https://github.com/sasaneft
+#### Email:sasan.eftekhar@gmx.de(business and work)    sasaneft@gmail.com(private) 
+#### LinkedIn: https://www.linkedin.com/in/sasan-eftekhar-27912519b/
+#### GitHub: https://github.com/sasaneft
 Feel free to explore the repositories for detailed project files, presentations, and results. Reach out for collaboration or inquiries!
