@@ -2,8 +2,8 @@
 I am a passionate data analyst with a strong foundation in data manipulation, visualization, and interpretation. My expertise spans multiple tools and platforms, enabling me to derive actionable insights from complex datasets. This portfolio reflects my ability to solve real-world problems through data-driven approaches.
 
 ## Microsoft Excel
-####Expertise: Advanced proficiency in Excel for data analysis, including pivot tables, VLOOKUP, conditional formatting, and complex formulas.
-###Projects:
+#### Expertise: Advanced proficiency in Excel for data analysis, including pivot tables, VLOOKUP, conditional formatting, and complex formulas.
+### Projects:
 #### Sales Performance Analysis: Developed a dashboard to track sales metrics, using pivot tables and charts to identify trends. (Presentation available in repository.)
 #### Budget Forecasting: Created a dynamic budgeting model with scenario analysis, leveraging Excel’s data validation and formulas. (Results shared in repository due to code restrictions.)
 ## Python
@@ -21,7 +21,7 @@ I am a passionate data analyst with a strong foundation in data manipulation, vi
 ### Projects:
 #### Marketing Campaign Dashboard: Developed a Power BI dashboard to track campaign performance, integrating multiple data sources. (Presentation and screenshots in repository.)
 #### Supply Chain Analytics: Built a report to monitor supply chain KPIs, enabling data-driven decision-making. (Results shared due to legal restrictions.)
-Training
+### Training: 
 #### Contributions: Actively involved in training colleagues and stakeholders on data analysis tools and best practices.
 ### Activities:
 #### Conducted workshops on Excel and Power BI for non-technical teams, improving data literacy across departments.
